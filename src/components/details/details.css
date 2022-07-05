@@ -1,0 +1,18 @@
+.details{
+    display: flex;
+    margin: 30px;
+    padding-bottom: 30px;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.city{
+    font-size: 20px;
+    font-weight: 300;
+}
+  
+.time{
+    font-size: 16px;
+    font-weight: 300;
+}

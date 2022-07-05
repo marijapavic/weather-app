@@ -1,0 +1,11 @@
+.forecast{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  
+  .forecast-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
