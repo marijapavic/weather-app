@@ -1,5 +1,6 @@
 import React from "react";
 import { iconUrl } from "../../services/weatherService";
+import "./forecastWeek.css"
 
 function ForecastWeek({ items }) {
   console.log(items);

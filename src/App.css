@@ -14,7 +14,6 @@
   max-width: 80%;
   margin: 0 auto;
   height: 100%;
-  
 }
 
 .nav{
@@ -55,7 +54,6 @@ h1{
   background-color: rgb(4, 46, 72);
 }
 
-
 #light .app,
 #light .container
 {
@@ -70,7 +68,6 @@ h1{
   background-color: rgb(4, 46, 72);
   color: white;
 }
-
 
 #dark .input{
   color: black

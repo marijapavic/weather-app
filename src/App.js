@@ -9,7 +9,6 @@ import { createContext, useEffect, useState } from "react";
 import {BrowserRouter, Route, Link, Routes} from "react-router-dom"
 import { UilSun, UilMoon } from "@iconscout/react-unicons";
 
-
 export const ThemeContext = createContext(null)
 
 function App() {
@@ -29,7 +28,6 @@ function App() {
         console.log(data)
       });
     };
-
     fetchWeather();
   }, [query, units]);
 
@@ -71,7 +69,6 @@ function App() {
                   </Routes>
               </div>
             )}
-
         </div>
       </div>
       </BrowserRouter>

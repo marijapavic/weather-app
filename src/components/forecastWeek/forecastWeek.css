@@ -4,8 +4,8 @@
     justify-content: space-evenly;
   }
   
-  .forecast-item{
+.forecast-item{
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
+}

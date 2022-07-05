@@ -1,18 +1,18 @@
 .input{
-    display: flex;
-    margin: auto;
-  }
+  display: flex;
+  margin: auto;
+}
   
-  input{
-    border: none;
-    border-radius: calc(0.5*100px);
-    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.38);
-    width: 275px;
-    font-size: 17px;
-    padding: 7px;
-    padding-left: 10px;
-  }
+input{
+  border: none;
+  border-radius: calc(0.5*100px);
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.38);
+  width: 275px;
+  font-size: 17px;
+  padding: 7px;
+  padding-left: 10px;
+}
   
-  input:focus{
-    outline: none;
-  }
+input:focus{
+  outline: none;
+}
